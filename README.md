@@ -5,6 +5,9 @@ The dataset was sourced from Kaggle and was originally scraped from Zepto’s of
 
 Each row represents a unique SKU (Stock Keeping Unit) for a product. Duplicate product names exist because the same product may appear multiple times in different package sizes, weights, discounts, or categories to improve visibility – exactly how real catalog data looks.
 
+<img width="1536" height="1024" alt="SQL " src="https://github.com/user-attachments/assets/c0d99957-7294-4609-a6d9-915400b2aacf" />
+
+
 🧾 Columns:
 
 sku_id: Unique identifier for each product entry (Synthetic Primary Key)
