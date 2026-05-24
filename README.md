@@ -26,3 +26,42 @@ weightInGms: Product weight in grams
 outOfStock: Boolean flag indicating stock availability
 
 quantity: Number of units per package (mixed with grams for loose produce)
+
+Tools Used
+PostgreSQL
+SQL
+pgAdmin
+GitHub
+
+Dataset Features
+Product Name
+Category
+MRP
+Discount %
+Quantity
+Weight
+Stock Status
+
+Key SQL Concepts Used
+CASE WHEN
+GROUP BY
+HAVING
+Aggregate Functions
+ORDER BY
+Data Cleaning
+Filtering
+Sorting
+
+Business Questions Solved
+Which products have highest discounts?
+Which categories generate highest revenue?
+Which expensive products are out of stock?
+What are the best value-for-money products?
+Inventory weight analysis for warehouse planning
+
+Key Insights
+Fruits & Vegetables had the highest average discount.
+Cooking Essentials generated high inventory weight.
+Some high-MRP products were out of stock.
+Duplicate SKUs existed for several products.
+
